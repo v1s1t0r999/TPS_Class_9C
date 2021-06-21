@@ -1,6 +1,3 @@
-<meta charset="utf-8">
-<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-<i>cloud</i>
 
 # 🎉 ~~Un~~ Official Website of _TPS Class 9C_ 🎉
 
