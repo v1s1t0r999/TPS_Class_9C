@@ -1,4 +1,4 @@
-# :tada:Welome to the _TPS 9C CLASS LINKS'_ ~~UN~~-Official Website:tada:
+# 🎉Welome to the _TPS 9C CLASS LINKS'_ ~~UN~~-Official Website🎉
 
 ---
 
@@ -33,9 +33,10 @@ Visit: [BINARY TO BE MADE]
 ## ☎️Support or Contact☎️ 
 
 1. 👇Join Our Discord Server👇
+
    [![Discord](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner3)](dsc.gg/KidsWhoCode))
 2. [My Github Profile](https://github.com/v1s1t0r999/)
 
-***In Case the above Discord Link doesn't work, visit: <dsc.gg/kidswhocode>.***
+***In Case the above Discord Link doesn't work, visit: [dsc.gg/kidswhocode](dsc.gg/kidswhocode).***
 
 
