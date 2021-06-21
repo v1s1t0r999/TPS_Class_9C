@@ -1,6 +1,6 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<i class="material-icons">cloud</i>
+<meta charset="utf-8">
+<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+<i>cloud</i>
 
 # 🎉 ~~Un~~ Official Website of _TPS Class 9C_ 🎉
 
