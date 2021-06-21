@@ -37,6 +37,6 @@ Visit: [BINARY TO BE MADE]
    [![Discord](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner3)](dsc.gg/KidsWhoCode))
 2. [My Github Profile](https://github.com/v1s1t0r999/)
 
-***In Case the above Discord Link doesn't work, visit: [https://dsc.gg/kidswhocode].***
+***In Case the above Discord Link doesn't work, visit: <https://dsc.gg/kidswhocode>.***
 
 
