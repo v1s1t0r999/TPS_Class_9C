@@ -1,40 +1,41 @@
-# Welome to the _TPS 9C CLASS LINKS'_ ~~(UN)~~ Official Website
+# :tada:Welome to the _TPS 9C CLASS LINKS'_ ~~UN~~-Official Website:tada:
 
+---
 
 ## 🗓️The Time-Table🗓️
 						
 ![image](https://user-images.githubusercontent.com/77138706/122703194-a2882900-d26e-11eb-863c-b1adfa27c2c3.png)
 
 
+---
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 📥Download the Program📥
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 1. For Linux Platform
+```shell
+$ git clone [PY TO BE MADE]
+$ cd TPSLinks
+$ python tpslinks.py
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 2. For Windows OS
+```shell
+Visit: [BINARY TO BE MADE]
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/v1s1t0r999/NotCrat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+## ☎️Support or Contact☎️ 
+
+1. 👇Join Our Discord Server👇
+   [![Discord](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner3)](dsc.gg/KidsWhoCode))
+2. [My Github Profile](https://github.com/v1s1t0r999/)
+
+***In Case the above Discord Link doesn't work, visit: <dsc.gg/kidswhocode>.***
+
+
