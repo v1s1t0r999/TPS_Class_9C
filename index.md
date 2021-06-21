@@ -1,8 +1,12 @@
-# 🎉~~UN~~-Official Website of _TPS Class 9C_🎉
+# 🎉 ~~Un~~ Official Website of _TPS Class 9C_ 🎉
 
 ---
 
->> All the WebEx Links [HERE](https://v1s1t0r999.github.io/NotCrat/WebEx_Links)
+### Notifications and Info
+**All the WebEx Links [HERE](https://v1s1t0r999.github.io/NotCrat/WebEx_Links)**
+
+
+---
 
 ## 🗓️The Time-Table🗓️
 						
@@ -41,4 +45,11 @@ Visit: [BINARY TO BE MADE]
 
 ***In Case the above Discord Link doesn't work, visit: <https://dsc.gg/kidswhocode>.***
 
+---
+---
+## Navigation
+***TPS Class 9C***
+- [**Main Index Page**](https://v1s1t0r999.github.io/NotCrat/index)
+- [**WebEx Links**](https://v1s1t0r999.github.io/NotCrat/WebEx_Links)
+    > **You Are in the _Main Index Page_ Corner**
 
