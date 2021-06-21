@@ -32,10 +32,10 @@ Visit: [BINARY TO BE MADE]
 
 ## ☎️Support or Contact☎️ 
 
-1. 👇Join Our Discord Server👇
+1. **👇Join Our Discord Server👇**
 
    [![Discord](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner3)](dsc.gg/KidsWhoCode))
-2. [My Github Profile](https://github.com/v1s1t0r999/)
+2. [**My Github Profile**](https://github.com/v1s1t0r999/)
 
 ***In Case the above Discord Link doesn't work, visit: <https://dsc.gg/kidswhocode>.***
 
