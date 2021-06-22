@@ -1,5 +1,5 @@
 
-<marquee behavior="scroll" direction="right"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
+<marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
 ## Navigation
 ***TPS Class 9C***
