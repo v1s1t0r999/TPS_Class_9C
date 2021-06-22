@@ -1,4 +1,4 @@
-
+<marquee behavior="scroll" direction="right"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
 ## All the WebEx Links for TPS Class 9C 🔗
 
