@@ -1,11 +1,4 @@
 
-## Navigation
-***TPS Class 9C***
-- [**Main Index Page**](https://v1s1t0r999.github.io/TPSClass9C/index)
-- [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
-- [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
-    > **You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links) Corner**
-
 
 ## All the WebEx Links for TPS Class 9C 🔗
 
@@ -31,3 +24,11 @@
 - [**Home Science (Optional)**](https://meet96.webex.com/meet/pr1589820885)
 
 
+---
+
+## Navigation
+***TPS Class 9C***
+- [**Main Index Page**](https://v1s1t0r999.github.io/TPSClass9C/index)
+- [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
+- [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
+    > **You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links) Corner**
