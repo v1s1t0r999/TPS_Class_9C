@@ -3,8 +3,10 @@
 
 ---
 
-### Notifications and Info
-**All the WebEx Links [HERE](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)**
+## Notifications and Info
+1. **All the WebEx Links [HERE](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)**
+2. **Extempore is Starting from this Thursday!! (ONLY 3 DAYS LEFT🤯)**
+3. **Project Submissions are starting SOOOON!!**
 <marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
 ---
