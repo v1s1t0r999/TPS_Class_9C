@@ -24,7 +24,7 @@
 - [**PE (Common) - Mr. Sunil Marathe**](https://meet96.webex.com/meet/pr1584286532)
 - [**PE (Common) - Mr. Ram Kadam**](https://meet97.webex.com/meet/pr1580716916)
 
-### 👇Optional Subject's Links👇
+### 👇Optional Subject Links👇
 - [**PE (Optional)**](https://meet96.webex.com/meet/pr1587247734)
 - [**CTA (Optional)**](https://meet97.webex.com/meet/pr1589336946)
 - [**CA	(Optional)**](https://meet96.webex.com/meet/SeethaJothi)
