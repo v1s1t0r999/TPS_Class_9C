@@ -5,7 +5,7 @@
 
 ### Notifications and Info
 **All the WebEx Links [HERE](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)**
-<marquee behavior="scroll" direction="right"><strong>EXAMS FORM 19th JULY!!</strong></marquee>
+<marquee behavior="scroll" direction="right"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
 ---
 
