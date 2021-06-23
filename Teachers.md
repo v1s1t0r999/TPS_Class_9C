@@ -13,7 +13,7 @@
 ## Our Teachers
 #### SUBJECT: TEACHER
 
-- **LITRETURE:**	_MR. RUPESH D._
+- **LITERATURE:** _MR. RUPESH D._
 - **LANGUAGE:** _MS. RUCHIRA R._
 - **HINDI:**_MS. JYOTSNA P._
 - **MATH:** _MS. ROOHI S._
