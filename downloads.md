@@ -25,17 +25,13 @@
 ```
 
 ### 2. 🐧For Linux Platform🐧
-```shell
-$ git clone [TO BE MADE]
-$ cd [FOLDER]
-$ python [FILE].py
-```
-
+**⇒ Download the [Shell File.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/linux)**
 
 ### 3. 🖥️For Windows OS🖥️
-```shell
-Visit: [BINARY TO BE MADE]
-```
+**⇒ Download the [Windows Executable.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/windows)**
+
+### 4. 🍎For MAC OSX🍎
+**⇒ Download the [MAC OSX App file.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/osx)**
 
 
 ---
