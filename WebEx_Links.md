@@ -15,7 +15,7 @@
 
 ### 👇Common Links👇
 - [**ASSEMBLY**](https://meet97.webex.com/meet/Roohi.S)
-- [**Litreture**](https://meet96.webex.com/meet/RupeshDalvi)
+- [**Litrature**](https://meet96.webex.com/meet/RupeshDalvi)
 - [**Language**](https://meet97.webex.com/meet/RuchiraRastogi)
 - [**Hindi**](https://meet97.webex.com/meet/JYOTSNA-AY21)
 - [**Math**](https://meet97.webex.com/meet/Roohi.S)
