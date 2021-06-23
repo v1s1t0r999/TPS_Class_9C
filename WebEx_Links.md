@@ -1,4 +1,15 @@
 <marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
+## Navigation
+***TPS Class 9C***
+- [**Main Index Page**](https://v1s1t0r999.github.io/TPSClass9C/index)
+- [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
+- [**Downloads**](https://v1s1t0r999.github.io/TPSClass9C/downloads)
+- [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
+    > **You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links) Corner**
+
+
+---
+---
 
 ## All the WebEx Links for TPS Class 9C 🔗
 
@@ -25,10 +36,3 @@
 
 
 ---
-
-## Navigation
-***TPS Class 9C***
-- [**Main Index Page**](https://v1s1t0r999.github.io/TPSClass9C/index)
-- [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
-- [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
-    > **You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links) Corner**
