@@ -16,7 +16,7 @@
 ## 📥Download the Program📥
 
 ### 1. 📱For Android📱
-   **⋙ Download the [APK file from here.](https://s3.amazonaws.com/gonativeio/static/60d2cc4b2fa3f744f0268eec/app-release.apk)**
+            **ↂ Download the [APK file from here.](https://s3.amazonaws.com/gonativeio/static/60d2cc4b2fa3f744f0268eec/app-release.apk)**
 ```
 1. Download the APK file.
 2. Install it. (You may have to click on **Allow from this source**)
