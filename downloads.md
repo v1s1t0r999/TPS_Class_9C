@@ -16,7 +16,7 @@
 ## 📥Download the Program📥
 
 ### 1. 📱For Android📱
-**Download the [APK file from here.](https://s3.amazonaws.com/gonativeio/static/60d2cc4b2fa3f744f0268eec/app-release.apk)**
+**  ⋙ Download the [APK file from here.](https://s3.amazonaws.com/gonativeio/static/60d2cc4b2fa3f744f0268eec/app-release.apk)**
 ```
 1. Download the APK file.
 2. Install it. (You may have to click on **Allow from this source**)
@@ -25,13 +25,13 @@
 ```
 
 ### 2. 🐧For Linux Platform🐧
-**⇒ Download the [Shell File.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/linux)**
+**  ⋙ Download the [Shell File.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/linux)**
 
 ### 3. 🖥️For Windows OS🖥️
-**⇒ Download the [Windows Executable.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/windows)**
+**  ⋙ Download the [Windows Executable.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/windows)**
 
 ### 4. 🍎For MAC OSX🍎
-**⇒ Download the [MAC OSX App file.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/osx)**
+**  ⋙ Download the [MAC OSX App file.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/osx)**
 
 
 ---
