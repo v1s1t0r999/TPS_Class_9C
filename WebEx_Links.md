@@ -33,12 +33,7 @@
       <div id="header">
         <nav>
           <li class="fork"><a href="https://github.com/v1s1t0r999/TPSClass9C">View On GitHub</a></li>
-          
-        </nav>
-      </div><div id="header">
-        <nav>
           <li class="fork"><a href="https://dsc.gg/kidswhocode">Join Discord</a></li>
- 
         </nav>
     </div><!-- end header -->
 
