@@ -1,5 +1,3 @@
-
-<!doctype html>
 <html lang="en-US">
   <head>
     <meta charset="utf-8">
@@ -37,7 +35,12 @@
           <li class="fork"><a href="https://github.com/v1s1t0r999/TPSClass9C">View On GitHub</a></li>
           
         </nav>
-      </div><!-- end header -->
+      </div><div id="header">
+        <nav>
+          <li class="fork"><a href="https://dsc.gg/kidswhocode">Join Discord</a></li>
+ 
+        </nav>
+      </div<!-- end header -->
 
     <div class="wrapper">
 
