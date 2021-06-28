@@ -40,7 +40,7 @@
           <li class="fork"><a href="https://dsc.gg/kidswhocode">Join Discord</a></li>
  
         </nav>
-      </div<!-- end header -->
+    </div><!-- end header -->
 
     <div class="wrapper">
 
