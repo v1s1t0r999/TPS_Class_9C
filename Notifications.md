@@ -1,4 +1,4 @@
-<marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>   <marquee behavior="scroll" direction="left"><strong>PE(optional) Practicals from Next Monday(5th of July). For More <a href="https://v1s1t0r999.github.io/TPSClass9C/Notifications">GO HERE</a></strong></marquee>
+<marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
 ## Navigation
 ***TPS Class 9C***
