@@ -1,38 +1,106 @@
-<marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
-## Navigation
-***TPS Class 9C***
-- [**Main Index Page**](https://v1s1t0r999.github.io/TPSClass9C/index)
-- [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
-- [**Downloads**](https://v1s1t0r999.github.io/TPSClass9C/downloads)
-- [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
-    > **You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links) Corner**
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>TPSClass9C</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="TPSClass9C" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links.html" />
+<meta property="og:url" content="https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links.html" />
+<meta property="og:site_name" content="TPSClass9C" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="TPSClass9C" />
+<script type="application/ld+json">
+{"url":"https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links.html","@type":"WebPage","headline":"TPSClass9C","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/TPSClass9C/assets/css/style.css?v=198996efa4d294830120364ecf5afdcf7d422a94">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/TPSClass9C/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/TPSClass9C/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/v1s1t0r999/TPSClass9C">View On GitHub</a></li>
+          
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>TPSClass9C</h1>
+          <p></p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/v1s1t0r999">v1s1t0r999</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+        <marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
+<h2 id="navigation">Navigation</h2>
+<p><strong><em>TPS Class 9C</em></strong></p>
+<ul>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/index"><strong>Main Index Page</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links"><strong>WebEx Links</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/downloads"><strong>Downloads</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/Teachers"><strong>Teachers</strong></a>
+    <blockquote>
+      <p><strong>You Are in the <a href="https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links"><em>WebEx Links</em></a> Corner</strong></p>
+    </blockquote>
+  </li>
+</ul>
+
+<hr />
+<hr />
+
+<h2 id="all-the-webex-links-for-tps-class-9c-">All the WebEx Links for TPS Class 9C 🔗</h2>
+
+<h3 id="common-links">👇Common Links👇</h3>
+<ul>
+  <li><a href="https://meet97.webex.com/meet/Roohi.S" target="_blank"><strong>ASSEMBLY</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/RupeshDalvi" target="_blank"><strong>Literature</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/RuchiraRastogi" target="_blank"><strong>Language</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/JYOTSNA-AY21" target="_blank"><strong>Hindi</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/Roohi.S" target="_blank"><strong>Math</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/GeetaShrivastav" target="_blank"><strong>Physics</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/neepa.mehta" target="_blank"><strong>Chemistry</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/garimasingh" target="_blank"><strong>Biology</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/pr1580983479" target="_blank"><strong>History</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/shanthala" target="_blank"><strong>Geography</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/RuchiraRastogi" target="_blank"><strong>SUPW</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/pr1584286532" target="_blank"><strong>PE (Common) - Mr. Sunil Marathe</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/pr1580716916" target="_blank"><strong>PE (Common) - Mr. Ram Kadam</strong></a></li>
+</ul>
+
+<h3 id="optional-subject-links">👇Optional Subject Links👇</h3>
+<ul>
+  <li><a href="https://meet96.webex.com/meet/pr1587247734" target="_blank"><strong>PE (Optional)</strong></a></li>
+  <li><a href="https://meet97.webex.com/meet/pr1589336946" target="_blank"><strong>CTA (Optional)</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/SeethaJothi" target="_blank"><strong>CA (Optional)</strong></a></li>
+  <li><a href="https://meet96.webex.com/meet/pr1589820885" target="_blank"><strong>Home Science (Optional)</strong></a></li>
+</ul>
+
+<hr />
 
 
----
----
+      </section>
 
-## All the WebEx Links for TPS Class 9C 🔗
+    </div>
 
-### 👇Common Links👇
-- [**ASSEMBLY**](https://meet97.webex.com/meet/Roohi.S)
-- [**Literature**](https://meet96.webex.com/meet/RupeshDalvi)
-- [**Language**](https://meet97.webex.com/meet/RuchiraRastogi)
-- [**Hindi**](https://meet97.webex.com/meet/JYOTSNA-AY21)
-- [**Math**](https://meet97.webex.com/meet/Roohi.S)
-- [**Physics**](https://meet96.webex.com/meet/GeetaShrivastav)
-- [**Chemistry**](https://meet96.webex.com/meet/neepa.mehta)
-- [**Biology**](https://meet96.webex.com/meet/garimasingh)
-- [**History**](https://meet96.webex.com/meet/pr1580983479)
-- [**Geography**](https://meet97.webex.com/meet/shanthala)
-- [**SUPW**](https://meet97.webex.com/meet/RuchiraRastogi)
-- [**PE (Common) - Mr. Sunil Marathe**](https://meet96.webex.com/meet/pr1584286532)
-- [**PE (Common) - Mr. Ram Kadam**](https://meet97.webex.com/meet/pr1580716916)
-
-### 👇Optional Subject Links👇
-- [**PE (Optional)**](https://meet96.webex.com/meet/pr1587247734)
-- [**CTA (Optional)**](https://meet97.webex.com/meet/pr1589336946)
-- [**CA	(Optional)**](https://meet96.webex.com/meet/SeethaJothi)
-- [**Home Science (Optional)**](https://meet96.webex.com/meet/pr1589820885)
-
-
----
+    
+  </body>
+</html>
