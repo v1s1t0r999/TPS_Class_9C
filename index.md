@@ -20,9 +20,10 @@
 
 ## 📥Download the Program📥
 
-### >> [**ANDROID**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=Download%20the%20Program%F0%9F%93%A5-,1.%20%F0%9F%93%B1For%20Android%F0%9F%93%B1,-Download%20the%20APK)
-### >> [**LINUX**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=2.%20%F0%9F%90%A7For%20Linux%20Platform%F0%9F%90%A7)
-### >> [**WINDOWS**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=3.%20%F0%9F%96%A5%EF%B8%8FFor%20Windows%20OS%F0%9F%96%A5%EF%B8%8F)
+### >> [**ANDROID**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=1.%20%F0%9F%93%B1For%20Android,file%20from%20here.)
+### >> [**LINUX**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=2.%20%F0%9F%90%A7For%20Linux,the%20Shell%20File.)
+### >> [**WINDOWS**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=3.%20%F0%9F%96%A5%EF%B8%8FFor%20Windows,the%20Windows%20Executable.)
+### >> [**MAC OSX**](https://v1s1t0r999.github.io/TPSClass9C/downloads#:~:text=4.%20%F0%9F%8D%8EFor%20MAC,OSX%20App%20file.)
 
 ---
 
