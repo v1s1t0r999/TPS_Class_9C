@@ -1,5 +1,5 @@
 
-# 🎉 **_TPS Class 9C_** 🎉
+<title>🎉<strong><i>TPS Class 9C</i></strong>🎉</title>
 
 ---
 
