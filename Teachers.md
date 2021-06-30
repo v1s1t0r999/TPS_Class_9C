@@ -8,6 +8,7 @@
 - [**Downloads**](https://v1s1t0r999.github.io/TPSClass9C/downloads)
 - [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
 - [**Notifications**](https://v1s1t0r999.github.io/TPSClass9C/Notifications)
+- [**Portion**](https://v1s1t0r999.github.io/TPSClass9C/Portion)
     > **You Are in the [*Teachers*](https://v1s1t0r999.github.io/TPSClass9C/Teachers) Corner**
 
 ---
