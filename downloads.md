@@ -1,39 +1,104 @@
 
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <link rel="icon" href="https://i.imgur.com/8avuY28.png" type="image/png">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>TPSClass9C</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="TPSClass9C" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://v1s1t0r999.github.io/TPSClass9C/downloads.html" />
+<meta property="og:url" content="https://v1s1t0r999.github.io/TPSClass9C/downloads.html" />
+<meta property="og:site_name" content="TPSClass9C" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="TPSClass9C" />
+<script type="application/ld+json">
+{"headline":"TPSClass9C","url":"https://v1s1t0r999.github.io/TPSClass9C/downloads.html","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/TPSClass9C/assets/css/style.css?v=62c946f9187373e77c67438e5798381acd5c0891">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/TPSClass9C/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/TPSClass9C/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/v1s1t0r999/TPSClass9C">View On GitHub</a></li>
+          <li class="fork"><a href="https://dsc.gg/kidswhocode">Join Discord</a></li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <title>🎉<strong><i>TPS Class 9C</i></strong>🎉</title>
+          <p></p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/v1s1t0r999">v1s1t0r999</a></span>
+        </div>
+
+        
 <marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
-## Navigation
-***TPS Class 9C***
-- [**Main Index Page**](https://v1s1t0r999.github.io/TPSClass9C/index)
-- [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
-- [**Downloads**](https://v1s1t0r999.github.io/TPSClass9C/downloads)
-- [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
-- [**Notifications**](https://v1s1t0r999.github.io/TPSClass9C/Notifications)
-- [**Portion**](https://v1s1t0r999.github.io/TPSClass9C/Portion)
-    > **You Are in the [*Downloads*](https://v1s1t0r999.github.io/TPSClass9C/downloads) Corner**
+<h2 id="navigation">Navigation</h2>
+<p><strong><em>TPS Class 9C</em></strong></p>
+<ul>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/index"><strong>Main Index Page</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links"><strong>WebEx Links</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/downloads"><strong>Downloads</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/Teachers"><strong>Teachers</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/Notifications"><strong>Notifications</strong></a></li>
+  <li><a href="https://v1s1t0r999.github.io/TPSClass9C/Portion"><strong>Portion</strong></a>
+    <blockquote>
+      <p><strong>You Are in the <a href="https://v1s1t0r999.github.io/TPSClass9C/downloads"><em>Downloads</em></a> Corner</strong></p>
+    </blockquote>
+  </li>
+</ul>
 
----
----
+<hr />
+<hr />
 
+<h2 id="download-the-program">📥Download the Program📥</h2>
 
-## 📥Download the Program📥
-
-### 1. 📱For Android📱
-   **↪ Download the [APK file from here.](https://s3.amazonaws.com/gonativeio/static/60d2cc4b2fa3f744f0268eec/app-release.apk)**
-```
-1. Download the APK file.
+<h3 id="1-for-android">1. 📱For Android📱</h3>
+<p><strong>↪ Download the <a href="https://s3.amazonaws.com/gonativeio/static/60d2cc4b2fa3f744f0268eec/app-release.apk">APK file from here.</a></strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. Download the APK file.
 2. Install it. (You may have to click on **Allow from this source**)
       NOTE: It may say that the App is harmful for your device. It actually ain't harmful at all as it doesn't require **ANY SPECIAL PERMISSION!!**. Since the App is not published on the Play Protect Server, therefore it says so.
 3. Enjoyy
-```
+</code></pre></div></div>
 
-### 2. 🐧For Linux Platform🐧
-   **↪ Download the [Shell File.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/linux)**
+<h3 id="2-for-linux-platform">2. 🐧For Linux Platform🐧</h3>
+<p><strong>↪ Download the <a href="https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/linux">Shell File.</a></strong></p>
 
-### 3. 🖥️For Windows OS🖥️
-   **↪ Download the [Windows Executable.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/windows)**
+<h3 id="3-️for-windows-os️">3. 🖥️For Windows OS🖥️</h3>
+<p><strong>↪ Download the <a href="https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/windows">Windows Executable.</a></strong></p>
 
-### 4. 🍎For MAC OSX🍎
-   **↪ Download the [MAC OSX App file.](https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/osx)**
+<h3 id="4-for-mac-osx">4. 🍎For MAC OSX🍎</h3>
+<p><strong>↪ Download the <a href="https://us-central1-appmaker-desktop-new.cloudfunctions.net/web2desk/download/XNkjfNAA2sdXFCsV4Zv1/osx">MAC OSX App file.</a></strong></p>
+
+<hr />
 
 
----
+      </section>
+
+    </div>
+	  <footer></footer>
+	  <footer></footer>
+	  <footer><p align="center"><strong><font color="0x66669F">© 2021 V1S10R999 and/or its Affiliates</font></strong></p></footer>
+    
+  </body>
+</html>
