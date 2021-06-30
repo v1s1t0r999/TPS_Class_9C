@@ -15,13 +15,13 @@
 
 ## PORTION
 ### **1st Internal Assessment (From 19th July, 21)**
-##### **History:**
+#### **History:**
    - **Chapter 1: _The Harapan Civilisation_**
    - **Chapter 2: _The Vedic Period_**
    - **Chapter 1 (Civics): _Our Constitution_**
 
 
-##### **Math:**
+#### **Math:**
    - **Chapter 1: Rational and Irrational Numbers**
    - **Chapter 2: Compound Interest (Without Formula)**
    - **Chapter 3: Compound Interest (Using Formula)**
@@ -29,7 +29,7 @@
    - **Chapter 7: Indices(Exponents)**
 
 
-##### **Subject:**
+#### **Subject:**
    - **Chapter X: NAME**
    - **Chapter X: NAME**
    - **Chapter X: NAME**
