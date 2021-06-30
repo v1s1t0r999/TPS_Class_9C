@@ -1,11 +1,12 @@
 
-# 🎉 ~~Un~~ Official Website of _TPS Class 9C_ 🎉
+# 🎉**_TPS Class 9C_**🎉
 
 ---
 
 ## Notifications and Info
 1. **All the WebEx Links [HERE](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)**
 2. **Project Submissions are starting SOOOON!!**
+3. **Find the Portion [HERE](https://v1s1t0r999.github.io/TPSClass9C/Portion)**
 <marquee behavior="scroll" direction="left"><strong>EXAMS FROM 19th JULY!!  !!STAY STRONG!!</strong></marquee>
 
 ---
@@ -47,6 +48,8 @@
 - [**WebEx Links**](https://v1s1t0r999.github.io/TPSClass9C/WebEx_Links)
 - [**Downloads**](https://v1s1t0r999.github.io/TPSClass9C/downloads)
 - [**Teachers**](https://v1s1t0r999.github.io/TPSClass9C/Teachers)
+- [**Notifications**](https://v1s1t0r999.github.io/TPSClass9C/Notifications)
+- [**Portion**](https://v1s1t0r999.github.io/TPSClass9C/Portion)
     > **You Are in the [*Main Index Page*](https://v1s1t0r999.github.io/TPSClass9C/index) Corner**
 
 
