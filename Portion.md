@@ -29,10 +29,13 @@
    - **Chapter 7: Indices(Exponents)**
 
 
-#### **Subject:**
-   - **Chapter X: NAME**
-   - **Chapter X: NAME**
-   - **Chapter X: NAME**
-   - **Chapter X: NAME**
-   - **Chapter X: NAME**
+#### **Hindi:**
+   - **Litreture**
+       - **Chapter 1: साख़ी (Poem)**
+       - **Chapter 1: बात अठन्नी की (Prose)**
+   - **Language**
+       - **संज्ञा: Pg. 221**
+       - **विशेषण: Pg. 237**
+       - **पर्यायवाची: Pg. 251**
+       - **विलोम शब्द: Pg. 259**
 
