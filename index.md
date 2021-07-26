@@ -1,5 +1,5 @@
 
-<!doctype html>
+<!--<!doctype html>-->
 <html lang="en-US">
   <head>
     <link rel="icon" href="https://i.imgur.com/8avuY28.png" type="image/png">
