@@ -1,12 +1,12 @@
 TPS Class 9C
 
-- [**Main Index Page**](https://v1s1t0r999.github.io/index)
-- [**WebEx Links**](https://v1s1t0r999.github.io/WebEx_Links)
-- [**Downloads**](https://v1s1t0r999.github.io/Downloads)
-- [**Teachers**](https://v1s1t0r999.github.io/Teachers)
-- [**Notifications**](https://v1s1t0r999.github.io/Notifications)
-- [**Portion**](https://v1s1t0r999.github.io/Portion)
-> ***You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/WebEx_Links) Corner.***
+- [**Main Index Page**](https://v1s1t0r999.github.io/TPS_Class_9C/index)
+- [**WebEx Links**](https://v1s1t0r999.github.io/TPS_Class_9C/WebEx_Links)
+- [**Downloads**](https://v1s1t0r999.github.io/TPS_Class_9C/Downloads)
+- [**Teachers**](https://v1s1t0r999.github.io/TPS_Class_9C/Teachers)
+- [**Notifications**](https://v1s1t0r999.github.io/TPS_Class_9C/Notifications)
+- [**Portion**](https://v1s1t0r999.github.io/TPS_Class_9C/Portion)
+> ***You Are in the [_WebEx Links_](https://v1s1t0r999.github.io/TPS_Class_9C/WebEx_Links) Corner.***
 
 
 
