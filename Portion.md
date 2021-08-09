@@ -14,29 +14,5 @@
 ---
 
 ## PORTION
-### **1st Internal Assessment (From 19th July, 21)**
-#### **History:**
-   - **Chapter 1: _The Harapan Civilisation_**
-   - **Chapter 2: _The Vedic Period_**
-   - **Chapter 1 (Civics): _Our Constitution_**
-
-
-#### **Math:**
-   - **Chapter 1: Rational and Irrational Numbers**
-   - **Chapter 2: Compound Interest (Without Formula)**
-   - **Chapter 3: Compound Interest (Using Formula)**
-   - **Chapter 4: Expansions**
-   - **Chapter 7: Indices(Exponents)**
-
-
-#### **Hindi:**
-   - **Litreture**
-       - **Chapter 1: साख़ी (Poem)**
-       - **Chapter 1: बात अठन्नी की (Prose)**
-   - **Language**
-       - **संज्ञा: Pg. 221**
-       - **विशेषण: Pg. 237**
-       - **पर्यायवाची: Pg. 251**
-       - **विलोम शब्द: Pg. 259**
-
+### NONE AS YET!!
 
